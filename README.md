@@ -1,2 +1,156 @@
 # New-Tech
 New Technology - tehnologii noi Moldova
+
+- [ ] Ac - Instalatii de alimentare cu apa si canalizare la constructii edilitare, civile, industriale si social - culturale
+    - [x] [A] Conducte de alimentare cu apa si accesorii
+      - [x] 2 - Pregatirea pt.imbinare tuburi din PEHD - VALROM in colaci cu L=50 m si pozitionarea in pamant dupa imbinare D < 63 mm - 110 mm
+      - [x] 3 - Pregatirea pt.imbinare tuburi din PEHD - VALROM in bare cu L=12 m si pozitionarea in pamant dupa imbinare D = 125 mm - 630 mm
+      - [x] 4 - Sudura cap la cap tuburi din PEHD - VALROM PE 80 Pn 6, D < 63 mm - 630 mm
+      - [x] 5 - Sudura cap la cap tuburi din PEHD - VALROM PE100 Pn 6, D < 63 mm - 630 mm
+      - [x] 6 - Sudura cap la cap tuburi din PEHD - VALROM PE 80 Pn 10, D = 40 mm - 630 mm
+      - [x] 7 - Sudura cap la cap tuburi din PEHD - VALROM PE100 Pn 10, D = 40 mm - 630 mm
+      - [x] 9 - Sudura cap la cap tuburi din PEHD - VALROM PE100 Pn 16, D = 40 mm - 630 mm
+      - [x] 10 - Sudura cap la cap fiting din PEHD - VALROM PE100 SDR17 cu 1 imbinare (dop/capat flansa)  D = 40 mm - 630 mm
+      - [x] 11 - Sudura cap la cap fiting din PEHD - VALROM PE100 SDR 11 cu 1 imbinare (dop/capat flansa)  D = 40 mm - 630 mm
+      - [x] 12 - Sudura cap la cap fiting din PEHD - VALROM PE100 SDR 17 cu 2 imbinari (cot/reductie)  D = 40 mm - 630 mm
+      - [x] 13 - Sudura cap la cap fiting din PEHD - VALROM PE100 SDR 11 cu 2 imbinari (cot/reductie) D = 40 mm - 630 mm
+      - [x] 14 - Sudura cap la cap fiting din PEHD - VALROM PE 100 SDR 17 cu 3 imbinari (teu egal/redus) D = 40 mm - 630 mm
+      - [x] 15 - Sudura cap la cap fiting din PEHD - VALROM PE 100 SDR 11 cu 3 imbinari (teu egal/redus) D = 40 mm - 630 mm
+      - [x] 16 - Sudura prin electrofuziune mufa/cot electrosudabil din PEHD - VALROM D = 32 mm - 500 mm
+      - [x] 17 - Sudura prin electrofuziune dop electrosudabil din PEHD - VALROM D = 25 mm - 110 mm
+      - [x] 18 - Sudura prin electrofuziune reductie electrosudabila din PEHD - VALROM D = 25 mm - 160 mm
+      - [x] 19 - Sudura prin electrofuziune teu electrosudabil din PEHD - VALROM D = 32 mm - 180 mm
+      - [x] 20 - Sudura prin electrofuziune sa/teu bransament electrosudabil cu/fara colier din PEHD - VALROM D = 40 mm - 355 mm
+      - [x] 21 - Fiting de compresiune din PEHD - VALROM cu 1 imbinare (dop/racord cu flansa) D = 25 mm - 110 mm
+      - [x] 22 - Fiting de compresiune din PEHD - VALROM cu 2 imbinari (mufa egala/redusa,cot)  D = 20 mm - 110 mm
+      - [x] 23 - Imbinare fiting de compresiune din PEHD - VALROM cu 2 imbinari (racord/cot tip FE sau FI) D = 20 mm - 110 mm
+      - [x] 25 - Imbinare fiting de compresiune din PEHD - VALROM cu 3 imbinari (teu cu derivatie tip FE sau FI) D = 20 mm - 110 mm
+      - [x] 26 - Montare piesa de bransare intarita din PEHD - VALROM D = 20 mm - 200 mm
+      - [x] 41 - Teava Wavin PE montata prin sudura cap la cap, pentru instalatii de alimentare cu apa D = 110 mm - 600 mm
+      - [x] 42 - Piese de legatura Wavin PE montate prin sudura cap la cap, pentru instalatii de alimentare cu apa D = 110 mm - 500 mm
+    - [x] [D] Canalizari cu tuburi prefabricate si din beton monolit
+      - [x] 27 - Tuburi Wavin PVC-KG imbinate prin mufe si garnituri, pentru instalatii de canalizare exterioara D = 110 mm - 500 mm
+      - [x] 28 - Piese de legatura Wavin PVC-KG imbinate prin mufe si garnituri, pentru instalatii de canalizare exterioara D = 110 mm - 500 mm
+      - [x] 29 - Tuburi ceramice Keramo montate prin mufe tip L, sistem de imbinare F, D = 100 mm - 200 mm
+      - [x] 30 - Tuburi ceramice Keramo montate prin mufe tip K, sistem de imbinare C,  D = 200 mm - 600 mm
+      - [x] 31 - Tuburi ceramice Keramo montate prin mufe tip S, sistem de imbinare C,  D = 200 mm - 600 mm
+      - [x] 32 - Coturi pentru tuburile ceramice Keramo montate prin mufe, etansare tip L/K,  D = 100 mm - 300 mm
+      - [x] 33 - Ramificatii pentru tuburile ceramice Keramo cu mufa,  D = 100 mm - 600 mm
+      - [x] 34 - Articulatii pentru tuburile ceramice Keramo cu mufa,  D = 150 mm - 800 mm
+      - [x] 35 - Piese din gresie ceramica Keramo pentru treceri,  D = 100 mm - 250 mm
+      - [x] 36 - Diferite tipuri de inele pentru tuburile ceramice Keramo, D < 200 mm - 600 mm
+      - [x] 37 - Tuburi ceramice Keramo cu montaj prin presare cu piesa de imbinare din polipropilena armata cu fibra de sticla, D = 150 mm - 600 mm
+      - [x] 38 - Piese de trecere pentru tuburi ceramice Keramo cu montaj prin presare, D = 100 mm - 600 mm
+      - [x] 39 - Verificarea instalarii si a etanseitatii la apa, a tuburilor ceramice Keramo (masurata la bucata tronson), D = 100 mm - 600 mm
+    - [x] [D1] Camine din beton
+      - [x] 01 - Camine prefabricate din beton SW Umwelttechnik pentru canalizare - element de baza (radier cu jgheab)
+      - [x] 02 - Camine prefabricate din beton SW Umwelttechnik pentru canalizare- element drept (tip inel)
+      - [x] 03 - Camine prefabricate din beton SW Umwelttechnik pentru canalizare- element de reductie (cap tronconic)
+      - [x] 04 - Camine prefabricate din beton SW Umwelttechnik pentru canalizare- element de ajustare (inel de aducere la cota)
+      - [x] 05 - Camine prefabricate din beton SW Umwelttechnik pentru canalizare - placa de acoperire si reductie
+      - [x] 06 - Camine prefabricate din beton SW Umwelttechnik pentru canalizare - piese de racord, din: PVC, tip mufa
+    - [ ] [E1] Camine de apa, canalizare si accesorii
+      - [x] 01 - Camin de inspectie Wavin SG 315, cu baza din PE, avind racorduri, D=250mm 
+      - [x] 02 - Camin de inspectie Wavin SG 315, cu baza din PE, avind racorduri, D=315mm
+      - [x] 03 - Camin de inspectie Wavin SG 315, cu baza din PE, avind racorduri, D=400mm
+      - [x] 05 - Camin de inspectie Wavin SG 315, cu baza din PP, avind racorduri, D=160mm
+      - [x] 06 - Camin de inspectie Wavin SG 315, cu baza din PP, avind racorduri, D=200mm
+      - [x] 07 - Camin de inspectie Wavin SP 425, cu baza din PP, avind racorduri, D=110mm
+      - [x] 08 - Camin de inspectie Wavin SP 425, cu baza din PP, avind racorduri, D=160mm
+      - [x] 09 - Camin de inspectie Wavin SP 425, cu baza din PP, avind racorduri, D=200mm
+      - [x] 10 - Camin de inspectie Wavin SP 425, cu baza din PE, avind racorduri, D=250mm
+      - [x] 11 - Camin de inspectie Wavin SP 425, cu baza din PE, avind racorduri, D=315mm
+      - [x] 12 - Camin de inspectie Wavin SP 425, cu baza din PE, avind racorduri, D=400mm
+      - [x] 13 - Camin de inspectie Wavin Tegra 600, avind racorduri, D=160mm si inel de beton
+      - [x] 14 - Camin de inspectie Wavin Tegra 600, avind racorduri, D=200mm si inel de beton
+      - [x] 15 - Camin de inspectie Wavin Tegra 600, avind racorduri, D=250mm si inel de beton
+      - [x] 16 - Camin de inspectie Wavin Tegra 600, avind racorduri, D=315mm si inel de beton
+      - [x] 17 - Camin de inspectie Wavin Tegra 600, avind racorduri, D=315mm si inel de beton
+      - [x] 18 - Camin de inspectie Wavin Tegra 1000, avind racorduri, D=160mm si inel de beton
+      - [x] 19 - Camin de inspectie Wavin Tegra 1000, avind racorduri, D=200mm si inel de beton
+      - [x] 20 - Camin de inspectie Wavin Tegra 1000, avind racorduri, D= 250mm si inel de beton
+      - [x] 21 - Camin de inspectie Wavin Tegra 1000, avind racorduri, D= 315mm si inel de beton
+      - [x] 22 - Camin de inspectie Wavin Tegra 1000, avind racorduri, D= 400mm si inel de beton
+      - [x] 23 - Accesorii pentru camine mufa pt racordare ulterioara, D=110mm - 200mm
+      - [x] 24 - Capace si gratare pentru camine, montare capace din fonta
+      - [x] 25 - Sistem de drenaj Wavin Q-Bic pentru ape pluviale, volume de 2000-3000 mc unitati
+      - [x] 26 - Echiparea cu unitati de drenaj Wavin Q-Bic a sistemelor de drenaj pentru ape pluviale
+      - [x] 28 - Echiparea sistemelor de drenaj Wavin Q-Bic pentru ape pluviale cu coloana de inspectie inclusiv conectorul pentru coloana
+      - [x] 29 - Protejarea sistemului de drenaj Wavin Q-Bic cu folie geotextil
+      - [x] 30 - Teava PVC VALROM cu mufa si garnitura pt. canalizare exterioara gravitationala D=110 mm
+      - [x] 31 - Teava PVC VALROM cu mufa si garnitura pt. canalizare exterioara gravitationala D = 125 mm
+      - [x] 32 - Teava PVC VALROM cu mufa si garnitura pt. canalizare exterioara gravitationala D = 160 mm
+      - [x] 33 - Teava PVC VALROM cu mufa si garnitura pt. canalizare exterioara gravitationala D = 200 mm
+      - [x] 34 - Teava PVC VALROM cu mufa si garnitura pt. canalizare exterioara gravitationala D = 250 mm
+      - [x] 35 - Teava PVC VALROM cu mufa si garnitura pt. canalizare exterioara gravitationala D = 315 mm
+      - [x] 36 - Teava PVC VALROM cu mufa si garnitura pt. canalizare exterioara gravitationala D = 400 mm
+      - [x] 37 - Teava PVC VALROM cu mufa si garnitura pt. canalizare exterioara gravitationala D = 500 mm
+      - [x] 38 - Taiere teava PVC VALROM pentru scurtare la o lungime impusa D = 110mm - 500mm
+      - [x] 39 - Mufa PVC VALROM cu garnitura pt. canalizare exterioara gravitationala D = 110 mm - 500mm
+      - [x] 40 - Curba PVC VALROM cu mufa si garnitura pt. canalizare exterioara gravitationala D = 110 mm - 500mm
+      - [x] 41 - Sa PVC VALROM bransament cu mufa si garnitura pt. canalizare exterioara gravitationala D = 200 mm - 500mm
+      - [x] 42 - Piesa inspectie PVC VALROM cu mufa si garnitura pt. canalizare exterioara gravitationala D = 110 mm - 500mm
+      - [x] 43 - Ramificatie egala PVC VALROM cu mufa si garnitura pt. canalizare exterioara gravitationala D = 110 mm - 500mm
+      - [x] 44 - Ramificatie redusa PVC VALROM cu mufa si garnitura pt. canalizare exterioara gravitationala D = 125 mm - 500mm
+      - [x] 45 - Reductie PVC VALROM cu mufa si garnitura pt. canalizare exterioara gravitationala D = 125 mm - 500mm
+      - [x] 46 - Dop PVC VALROM pt. canalizare exterioara gravitationala D = 110 mm - 500mm
+      - [x] 47 - Piesa trecere VALROM prin camin PVC / beton D = 110 mm - 500mm
+      - [x] 48 - Clapeta antiretur VALROM cu inchizator pt. canalizare exterioara gravitationala D = 110 mm - 315mm
+      - [x] 49 - Tub gofrat VALROM cu mufa pentru canalizare exterioara D = 125mm - 1000mm , L=6 m
+      - [x] 50 - Mufa gofrata VALROM pentru canalizare exterioara D = 125mm - 1000mm
+      - [x] 51 - Curba gofrata VALROM cu mufa pentru canalizare exterioara D = 125mm - 1000mm
+      - [x] 52 - Ramificatie egala gofrata VALROM cu mufa pentru canalizare exterioara D = 125mm - 1000mm
+      - [x] 53 - Ramificatie redusa gofrata VALROM pentru canalizare exterioara D = 125mm - 630mm
+      - [x] 54 - Reductie excentrica gofrata VALROM canalizare exterioara D = 125mm - 630mm
+      - [x] 55 - Mufa trecere VALROM tub gofrat / tub lis
+      - [x] 56 - Tub PVC VALROM pentru drenaj (bara) D = 110 mm
+      - [x] 57 - Tub PVC VALROM pentru drenaj (bara) D = 125 mm
+      - [x] 58 - Tub PVC VALROM pentru drenaj (bara) D = 160 mm
+      - [x] 59 - Tub PVC VALROM pentru drenaj (bara) D = 200 mm
+      - [x] 60 - Tub PVC VALROM pentru drenaj (bara) D = 250 mm
+      - [x] 61 - Tub PVC VALROM pentru drenaj (bara) D = 315 mm
+      - [x] 62 - Tub PVC VALROM pentru drenaj (bara) D = 400 mm
+      - [x] 63 - Tub drenaj gofrat VALROM dublu strat (colac 50 m) D = 63 mm - 200 mm
+      - [x] 64 - Conector VALROM pentru tub drenaj gofrat D = 63 mm - 200 mm
+      - [x] 65 - Camin de vizitare PE VALROM, cu baza inchisa cu piesa superioara reglare H = 750mm - 4500mm
+      - [x] 66 - Camin de vizitare PE VALROM, cu 1 iesire D = 200 /160 mm, cu piesa superioara reglare, H = 750mm - 4500mm
+      - [x] 67 - Camin de vizitare PE VALROM, cu 1 iesire D = 315 /250 mm, cu piesa superioara reglare H = 900mm - 4700mm
+      - [x] 68 - Camin de vizitare PE VALROM, cu 1 intrare/1 iesire D = 400 /400 mm, cu piesa superioara reglare, H = 1500mm - 4500mm
+      - [x] 69 - Camin de vizitare PE VALROM, cu 1 intrare/1 iesire D = 500 /500 mm, cu piesa superioara reglare, H = 1500mm - 4500mm
+      - [ ] 70 - 
+      - [ ] 71 - 
+      - [ ] 72 - 
+      - [ ] 73 - 
+      - [ ] 75 - 
+      - [ ] 76 - 
+      - [ ] 78 -
+      - [ ] 79 - 
+      - [ ] 80 - 
+      - [ ] 81 - 
+      - [ ] 82 -
+      - [ ] 83 -
+      - [ ] 84 - 
+      - [ ] 85 - 
+    - [ ] [E2] Rigole
+      - [ ] 01 - 
+      - [ ] 02 - 
+      - [ ] 03 - 
+      - [ ] 04 - 
+      - [ ] 05 - 
+- [ ] C - Constructii
+- [ ] CMt - Confectii metalice executate in ateliere - editia 2004
+- [ ] D - Lucrari de drumuri si strazi
+- [ ] E - Lucrari de instalatii electrice la constructii
+- [ ] H1 - Lucrari hidrotehnice
+- [ ] I - Instalatii de incalzire si gaze
+- [ ] IZ - Izolatii
+- [ ] M1 - Montare utilaje tehnologice de folosinta comuna si conducte
+- [ ] O - Lucrari geodezice, topo-fotogrammetrice si cartografice (lucrari de masuratori terestre) - editia 1987
+- [ ] P - Poduri
+- [ ] RPC - Reparatii la constructii
+- [ ] RpIz- Reparatii la izolatii in constructii si instalatii
+- [ ] S - Instalatii sanitare
+- [ ] SPV - Spatii verzi
+- [ ] SV - Lucrari din silvicultura - editia 1997
+- [ ] TS - Terasamente
+- [ ] W3L - Lucrari in tehnologia de lucru sub tensiune LST-LEA
