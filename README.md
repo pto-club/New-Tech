@@ -1,7 +1,7 @@
 # New-Tech
 New Technology - tehnologii noi Moldova
 
-- [ ] Ac - Instalatii de alimentare cu apa si canalizare la constructii edilitare, civile, industriale si social - culturale
+- [x] Ac - Instalatii de alimentare cu apa si canalizare la constructii edilitare, civile, industriale si social - culturale
     - [x] [A] Conducte de alimentare cu apa si accesorii
       - [x] 2 - Pregatirea pt.imbinare tuburi din PEHD - VALROM in colaci cu L=50 m si pozitionarea in pamant dupa imbinare D < 63 mm - 110 mm
       - [x] 3 - Pregatirea pt.imbinare tuburi din PEHD - VALROM in bare cu L=12 m si pozitionarea in pamant dupa imbinare D = 125 mm - 630 mm
@@ -49,7 +49,7 @@ New Technology - tehnologii noi Moldova
       - [x] 04 - Camine prefabricate din beton SW Umwelttechnik pentru canalizare- element de ajustare (inel de aducere la cota)
       - [x] 05 - Camine prefabricate din beton SW Umwelttechnik pentru canalizare - placa de acoperire si reductie
       - [x] 06 - Camine prefabricate din beton SW Umwelttechnik pentru canalizare - piese de racord, din: PVC, tip mufa
-    - [ ] [E1] Camine de apa, canalizare si accesorii
+    - [x] [E1] Camine de apa, canalizare si accesorii
       - [x] 01 - Camin de inspectie Wavin SG 315, cu baza din PE, avind racorduri, D=250mm 
       - [x] 02 - Camin de inspectie Wavin SG 315, cu baza din PE, avind racorduri, D=315mm
       - [x] 03 - Camin de inspectie Wavin SG 315, cu baza din PE, avind racorduri, D=400mm
@@ -117,40 +117,129 @@ New Technology - tehnologii noi Moldova
       - [x] 67 - Camin de vizitare PE VALROM, cu 1 iesire D = 315 /250 mm, cu piesa superioara reglare H = 900mm - 4700mm
       - [x] 68 - Camin de vizitare PE VALROM, cu 1 intrare/1 iesire D = 400 /400 mm, cu piesa superioara reglare, H = 1500mm - 4500mm
       - [x] 69 - Camin de vizitare PE VALROM, cu 1 intrare/1 iesire D = 500 /500 mm, cu piesa superioara reglare, H = 1500mm - 4500mm
-      - [ ] 70 - 
-      - [ ] 71 - 
-      - [ ] 72 - 
-      - [ ] 73 - 
-      - [ ] 75 - 
-      - [ ] 76 - 
-      - [ ] 78 -
-      - [ ] 79 - 
-      - [ ] 80 - 
-      - [ ] 81 - 
-      - [ ] 82 -
-      - [ ] 83 -
-      - [ ] 84 - 
-      - [ ] 85 - 
-    - [ ] [E2] Rigole
-      - [ ] 01 - 
-      - [ ] 02 - 
-      - [ ] 03 - 
-      - [ ] 04 - 
-      - [ ] 05 - 
+      - [x] 70 - Camin de vizitare PE VALROM, cu 1 intrare/1 iesire D = 400 /500 mm, cu piesa superioara reglare,  H = 1500mm - 4500mm
+      - [x] 71 - Camin de vizitare PE VALROM, cu 3 intr./1 iesire D = 200 /160 mm, cu piesa superioara reglare, H = 750mm - 4500mm
+      - [x] 72 - Camin de vizitare PE VALROM, cu 3 intr./1 iesire D = 315 /250 mm, cu piesa superioara reglare, H = 900mm - 4700mm
+      - [x] 73 - Camin de vizitare PE VALROM, cu baza inchisa fara piesa superioara reglare, H = 750mm - 4500mm
+      - [x] 75 - Camin de vizitare PE VALROM, cu 1 iesire D = 315 /250 mm, fara piesa superioara reglare, H = 900mm - 4700mm
+      - [x] 76 - Camin de vizitare PE VALROM, cu 1 intrare/1 iesire D = 400 /400 mm, fara piesa superioara reglare, H = 1500mm - 4500mm
+      - [x] 78 - Camin de vizitare PE VALROM, cu 1 intrare/1 iesire D = 400 /500 mm, fara piesa superioara reglare, H = 1500mm - 4500mm
+      - [x] 79 - Camin de vizitare PE VALROM, cu 3 intr./1 iesire D = 200 /160 mm, fara piesa superioara reglare, H = 750mm - 4500mm
+      - [x] 80 - Camin de vizitare PE VALROM, cu 3 intr./1 iesire D = 315 /250 mm, fara piesa superioara reglare, H = 900mm - 4700mm
+      - [x] 81 - Capac /gratar + rama VALROM pentru camin de vizitare Fara piesa suport din beton armat
+      - [x] 82 - Racord PVC VALROM la camin de vizitare cu garnitura, D = 20mm - 160mm
+      - [x] 83 - Camin inspectie VALROM cu baza D.315 mm 1 intrare / 1 iesire, prelungire camin L=1 m.
+      - [x] 84 - Camin inspectie VALROM cu baza D.400 mm 1 intrare / 1 iesire, prelungire camin L=1 m.
+      - [x] 85 - Racord tub gofrat VALROM camin inspectie cu garnitura D = 110 mm - 160 mm
+    - [x] [E2] Rigole
+      - [x] 01 - Rigola Hydro BG tip BGF- Z din beton vibropresat, cu inaltime redusa, muchie din otel zincat
+      - [x] 02 - Rigola Hydro BG tip BGU- Z din beton vibropresat, cu muchie din otel zincat, LN100 nr. 0
+      - [x] 03 - Rigola Hydro BG Filcoten light din beton armat cu fibre naturale, fara muchie.
+      - [x] 04 - Gratar pentru rigola Hydro BG, tip retea cu prindere rapida , din otel zincat
+      - [x] 05 - Gratar Hydro BG tip nervurat transversal , din fonta ductila.
+      - [x] 06 - Accesorii pentru rigole si gratare tip Hydro BG placa frontala sau terminala din otel zincat.
 - [ ] C - Constructii
+    - [ ] [A] Lucrari de beton
+    - [ ] [B] Cofraje, inclusiv cofraje termoizolante si schele
+    - [ ] [D] Inchideri si compartimentari
+    - [ ] [E] Invelitori si sarpante din lemn
+    - [ ] [F] Tencuieli
+    - [ ] [G] Pardoseli
+    - [ ] [H] Scari
+    - [ ] [I] Placaje interioare si exterioare
+    - [ ] [J] Profiluri si ornamente decorative
+    - [ ] [K] Tamplarie
+    - [ ] [N] Zugraveli si vopsitorii
+    - [ ] [P] Prefabricate din beton armat
+    - [ ] [R] Rosturi
+    - [ ] [S] Plafoane
 - [ ] CMt - Confectii metalice executate in ateliere - editia 2004
+    - [ ] [A] Trasarea, insemnarea, taierea si craituirea materialelor
+    - [ ] [B] Indreptarea materialelor
+    - [ ] [C] Gaurirea, zencuirea, polizarea, pilirea, ajustarea (slefuirea) si alezarea materialelor
+    - [ ] [D] Indoirea, nituirea, filetarea si insurubarea materialelor
+    - [ ] [E] Sudarea electrica a constructiilor si confectiilor metalice
+    - [ ] [F] Confectionarea usilor si ferestrelor
+    - [ ] [G] Confectionarea constructiilor metalice
+    - [ ] [H] Asamblarea constructiilor metalice
+    - [ ] [I] Lucrari diverse
 - [ ] D - Lucrari de drumuri si strazi
+    - [ ] [A] Lucrari de executie a drumurilor impietruite
+    - [ ] [B] Pavaje si imbracaminti bituminoase la drumuri si strazi
+    - [ ] [C] Imbracaminti cu lianti hidraulici
+    - [ ] [D] Lucrari cu materiale geosintetice
 - [ ] E - Lucrari de instalatii electrice la constructii
+    - [ ] [M] Sisteme de detectare si alarmare a incendiilor
+    - [ ] [N] Sisteme de detectare, avertizare si alarmare efractie
+    - [ ] [S] Sisteme de supraveghere video
+    - [ ] [T] Sisteme de control si monitorizare acces
 - [ ] H1 - Lucrari hidrotehnice
+    - [ ] [B] Turnari de betoane
 - [ ] I - Instalatii de incalzire si gaze
+    - [ ] [C] Conducte si accesorii
+    - [ ] [F] Sisteme de incalzire prin pardoseala
+    - [ ] [G] Sisteme de instalatii solare
 - [ ] IZ - Izolatii
+    - [ ] [A] Protectii anticorozive
+    - [ ] [F] Izolatii la constructii
 - [ ] M1 - Montare utilaje tehnologice de folosinta comuna si conducte
+    - [ ] [B] Pompe pentru utilizari diverse
 - [ ] O - Lucrari geodezice, topo-fotogrammetrice si cartografice (lucrari de masuratori terestre) - editia 1987
+    - [ ] [A] Analize, studii, proiecte, recunoasteri privind lucrarile de masuratori terestre
+    - [ ] [B] Constructii de semnale geodezice
+    - [ ] [C] Borne, reperi, picheti
+    - [ ] [D] Marcarea (materializarea) punctelor pe teren
+    - [ ] [E] Lucrari pregatitoare privind executarea operatiilor geodezice si topografice
+    - [ ] [F] Masurarea distantelor
+    - [ ] [G] Observatii azimutale si zenitale
+    - [ ] [H] Observatii altimetrice
+    - [ ] [I] Determinari, transmiteri, reperaje
+    - [ ] [J] Operatii speciale de masuratori terestre
+    - [ ] [K] Calcule topografice
+    - [ ] [L] Calcule geodezice
+    - [ ] [M] Redactarea operatiilor tehnice
+    - [ ] [N] Pregatirea suportului, raportarea si redactarea planurilor
+    - [ ] [O] Lucrari fotogrammetrice
+    - [ ] [P] Cadastru si exproprieri
+    - [ ] [R] Cartografierea planurilor
+    - [ ] [S] Multiplicarea planurilor
+    - [ ] [T] Aplicari, trasari, amplasari
+    - [ ] [U] Lucrarile de masuratori terestre
 - [ ] P - Poduri
+    - [ ] [K] Lucrari diverse si reparatii
 - [ ] RPC - Reparatii la constructii
+    - [ ] [B] Lucrari de beton monolit
+    - [ ] [E] Izolatii la constructii
+    - [ ] [F] Zidarie de piatra
 - [ ] RpIz- Reparatii la izolatii in constructii si instalatii
+    - [ ] [F] Lucrari diverse si lucrari cu materiale si tehnologii noi
 - [ ] S - Instalatii sanitare
+    - [ ] [A] Conducte pentru apa si accesorii
+    - [ ] [B] Conducte pentru canalizare si accesorii
 - [ ] SPV - Spatii verzi
+    - [ ] [A] Pregatirea terenului in vederea plantarii si semanarii ierburilor perene
+    - [ ] [B] Plantari si transplantari
+    - [ ] [C] Lucrari de intretinere
 - [ ] SV - Lucrari din silvicultura - editia 1997
+    - [ ] [A] Seminte forestiere si butasi
+    - [ ] [B] Pepiniere silvice
+    - [ ] [C] Impaduriri si ingrijirea arboretelor
+    - [ ] [D] Lucrari silvice mecanizate
+    - [ ] [E] Lucrari de protectia padurilor
+    - [ ] [F] Punerea in valoare a arboretelor
+    - [ ] [G] Recoltarea si prelucrarea produselor padurii
+    - [ ] [H] Vanatoare
+    - [ ] [I] Amenajarea padurilor
+    - [ ] [J] Lucrari de exploatare a lemnului
+    - [ ] [L] Lucrarile de intretinere si reparatii ale drumurilor forestiere
+    - [ ] [M] Lucrarile de intretinere a constructiilor hidrotehnice
+    - [ ] [N] Lucrari de amenajarea padurilor
 - [ ] TS - Terasamente
+    - [ ] [J] Consolidarea terasamentelor
 - [ ] W3L - Lucrari in tehnologia de lucru sub tensiune LST-LEA
+    - [ ] [C] Lucrari de LST pe conductoarele LEA 110-750 kV
+    - [ ] [E] Lucrari de LST executate cu ajutorul elicopterului
+    - [ ] [I] Lucrari de LST la elementele lanturilor de izolatoare
+    - [ ] [P] Lucrari de LST la prizele de pamant
+    - [ ] [S] Lucrari de LST la stalpii LEA 110 - 750 kV
+    - [ ] [V] Lucrari de LST; verificari, controale, incercari si probe
