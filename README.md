@@ -140,6 +140,14 @@ New Technology - tehnologii noi Moldova
       - [x] 06 - Accesorii pentru rigole si gratare tip Hydro BG placa frontala sau terminala din otel zincat.
 - [ ] C - Constructii
     - [ ] [A] Lucrari de beton
+      - [x] 01 - Preparare cu mijloace manuale a betonului pe santierul de constructie
+      - [x] 02 - Preparare cu betoniera a betonului pe santierul de constructie
+      - [x] 03 - Turnare beton cu mijloace clasice in elemente nearmate
+      - [x] 04 - Turnare beton cu mijloace clasice in elemente armate sub cota zero
+      - [x] 05 - Turnare beton cu mijloace clasice in elemente armate situate peste cota zero
+      - [x] 06 - Turnare beton marfa ,cu cu pompa pe verticala pina la 10 m inclusiv si pe orizontala pina la 15 m sub cota zero in elemente
+      - [x] 07 - Turnare beton marfa ,cu cu pompa pe verticala pina la 10 m inclusiv si pe orizontala pina la 15 m peste cota zero in elemente armate
+      - [x] 08 - Beton turnat cu mijloace clasice in elementele constructiilor cu inaltimea pana la 35 m inclusiv, executate cu cofraje glisante
     - [ ] [B] Cofraje, inclusiv cofraje termoizolante si schele
     - [ ] [D] Inchideri si compartimentari
     - [ ] [E] Invelitori si sarpante din lemn
