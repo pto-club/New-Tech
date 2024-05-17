@@ -139,7 +139,7 @@ New Technology - tehnologii noi Moldova
       - [x] 05 - Gratar Hydro BG tip nervurat transversal , din fonta ductila.
       - [x] 06 - Accesorii pentru rigole si gratare tip Hydro BG placa frontala sau terminala din otel zincat.
 - [ ] C - Constructii
-    - [ ] [A] Lucrari de beton
+    - [x] [A] Lucrari de beton
       - [x] 01 - Preparare cu mijloace manuale a betonului pe santierul de constructie
       - [x] 02 - Preparare cu betoniera a betonului pe santierul de constructie
       - [x] 03 - Turnare beton cu mijloace clasice in elemente nearmate
@@ -148,6 +148,13 @@ New Technology - tehnologii noi Moldova
       - [x] 06 - Turnare beton marfa ,cu cu pompa pe verticala pina la 10 m inclusiv si pe orizontala pina la 15 m sub cota zero in elemente
       - [x] 07 - Turnare beton marfa ,cu cu pompa pe verticala pina la 10 m inclusiv si pe orizontala pina la 15 m peste cota zero in elemente armate
       - [x] 08 - Beton turnat cu mijloace clasice in elementele constructiilor cu inaltimea pana la 35 m inclusiv, executate cu cofraje glisante
+      - [x] 09 - Beton ciclopian, clasa C 4/5 in fundatii, socluri,ziduri de sprijin
+      - [x] 10 - Beton preparat cu betoniera pe santier, subturnat la utilaje tehnologice si la stalpi metalici
+      - [x] 11 - Betonarea buloanelor la fundatii de utilaje si stalpi metalici cu beton preparat cu betoniera pe santier
+      - [x] 12 - Beton autocompactant LAFARGE tip Agilia in elemente verticale la cladiri
+      - [x] 13 - Beton autocompactant LAFARGE tip Agilia in elemente orizontale la cladiri
+      - [x] 14 - Beton autocompactant LAFARGE tip Agilia in elemente cu calitati superioare de finisaj la cladiri
+      - [x] 15 - Turnare beton LAFARGE tip Ultra Series de inalta rezistenta
     - [ ] [B] Cofraje, inclusiv cofraje termoizolante si schele
     - [ ] [D] Inchideri si compartimentari
     - [ ] [E] Invelitori si sarpante din lemn
