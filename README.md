@@ -155,8 +155,25 @@ New Technology - tehnologii noi Moldova
       - [x] 13 - Beton autocompactant LAFARGE tip Agilia in elemente orizontale la cladiri
       - [x] 14 - Beton autocompactant LAFARGE tip Agilia in elemente cu calitati superioare de finisaj la cladiri
       - [x] 15 - Turnare beton LAFARGE tip Ultra Series de inalta rezistenta
-    - [ ] [B] Cofraje, inclusiv cofraje termoizolante si schele
+    - [x] [B] Cofraje, inclusiv cofraje termoizolante si schele
+      - [x] 19 - Cofraje din Neopor pentru pereti, buiandrugi, centuri si plansee din B.A., termoizolante
+      - [x] 20 - Cofraje din Neopor pentru buiandrugi din B.A., termoizolante
+      - [x] 21 - Cofraje din Neopor pentru centuri din B.A., termoizolante
+      - [x] 22 - Cofraje din Neopor pentru plansee din B.A., termoizolante
+      - [x] 32 - Cofraje pierdute din elemente din polistiren GEST P # 5,5 si GEST P - 16 cofraje pierdute din elemente din polistiren GEST
+      - [x] 33 - Cofraje circulare de unica folosinta pentru turnarea betonului #UNITUB#
+      - [x] 34 - Sustineri pentru plansee cu elemente POROTHERM, cu grinzi si popi metalici:
+      - [x] 35 - Sistem cu cofraj Thermodul pentru pereti interiori
+      - [x] 36 - Sistem cu cofraj Thermodul pentru pereti exteriori
+      - [x] 37 - Sistem cu cofraj Thermodul pentru plansee
+      - [x] 38 - Cofraje refolosibile din placaj multistrat filmat tip TEGO - CEMENTPLEX, exclusiv sprijinirile, pentru turnarea betonului
     - [ ] [D] Inchideri si compartimentari
+      - [x] 16 - Zidarie la pereti structurali din blocuri ceramice POROTHERM cu locas de mortar
+      - [x] 17 - Zidarie la pereti structurali din blocuri ceramice POROTHERM STH si S
+      - [x] 18 - Zidarie la pereti nestructurali din blocuri ceramice POROTHERM cu nut si feder (N+F)
+      - [x] 19 - Zidarie in pereti de compartimentare si de inchidere la structuri in cadre din blocuri ceramice POROTHERM 25/30 Light
+      - [x] 20 - Placi presate plate - OSB
+      - [x] 21 - Pereti exteriori din elemente GEST - ECO (Green Energy System Tehnology)
     - [ ] [E] Invelitori si sarpante din lemn
     - [ ] [F] Tencuieli
     - [ ] [G] Pardoseli
