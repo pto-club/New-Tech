@@ -174,6 +174,10 @@ New Technology - tehnologii noi Moldova
       - [x] 19 - Zidarie in pereti de compartimentare si de inchidere la structuri in cadre din blocuri ceramice POROTHERM 25/30 Light
       - [x] 20 - Placi presate plate - OSB
       - [x] 21 - Pereti exteriori din elemente GEST - ECO (Green Energy System Tehnology)
+      - [x] 22 - Pereti din B.A. turnati in elemte de cofraj din Neopor, termoizolant
+      - [x] 23 - Buiandrugi din B.A. turnati in elem-te de cofraj din Neopor, termoizolant
+      - [x] 24 - Centuri din B.A. turnate in elemente de cofraj din Neopor, termoizolant
+      - [x] 25 - Sistem TRIMO de panouri montate orizontal pentru fatade - montare panouri in cimp continuu
     - [ ] [E] Invelitori si sarpante din lemn
     - [ ] [F] Tencuieli
     - [ ] [G] Pardoseli
