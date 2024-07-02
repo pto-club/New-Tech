@@ -203,7 +203,17 @@ New Technology - tehnologii noi Moldova
     - [ ] [A] Lucrari de executie a drumurilor impietruite
     - [ ] [B] Pavaje si imbracaminti bituminoase la drumuri si strazi
     - [ ] [C] Imbracaminti cu lianti hidraulici
-    - [ ] [D] Lucrari cu materiale geosintetice
+    - [x] [D] Lucrari cu materiale geosintetice
+      - [x] 01 - Saltea geocelule B2B CONSPROD
+      - [x] 02 - Procedeul de etansare cu geocompozit bentonitic B2B CONSPROD pentru depozite deseuri, ecologizari, impermeabilizare rezervoare,etc.
+      - [x] 03 - Procedeul de amorsare strat baza / imbracaminti existente cu bitum pentru aplicare geocompozit B2B CONSPROD BISTEX
+      - [x] 04 - Geocompozit biodegradabil B2B CONSPROD BIOFELT
+      - [x] 05 - Geocompozit drenant B2B CONSPROD
+      - [x] 06 - Geogrile B2B CONSPROD
+      - [x] 07 - Geotextile B2B CONSPROD
+      - [x] 08 - Geomembrane HDPE B2B CONSPROD
+      - [x] 09 - Saltele antierozionale B2B CONSPROD
+      - [x] 10 - Geosaltele B2B CONSPROD, cofraje pierdute pt. protectie maluri
 - [ ] E - Lucrari de instalatii electrice la constructii
     - [ ] [M] Sisteme de detectare si alarmare a incendiilor
     - [ ] [N] Sisteme de detectare, avertizare si alarmare efractie
